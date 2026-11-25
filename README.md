@@ -1,10 +1,10 @@
-## Hi, I'm Prithivirajan 👋
+## Hi, I'm Prithivirajan R👋
 
 **I build AI tools for real business problems.**
 
 I'm a cybersecurity consultant (Identity & Access Management) and agile coach in Chennai, now building AI automation for small businesses. I'm learning in public by shipping four AI projects, each with a live demo, an evaluation and a clean README.
 
-- 🔐 **Day job:** IAM / cybersecurity consulting, Associate RTE and agile coach
+- 🔐 **Day job:** Cybersecurity consulting (IAM), Associate RTE and Agile coach
 - 🤖 **Building:** LLM apps and agents with Python, LangChain, OpenAI and Streamlit
 - 💼 **Open to:** freelance AI automation projects
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/prithivirajan-radhakrishnan-b76938115/)
